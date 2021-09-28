@@ -5,5 +5,7 @@
 
 ⚡ Fun fact **I love LOTR**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linconlrufino&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linconlrufino&show_icons=true&theme=ocean_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linconlrufino&show_icons=true&theme=ocean_dark)](https://github.com/linconlrufino/github-readme-stats)
+
 
