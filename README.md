@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning and focused at **NodeJS and TypeScript .**
 
-⚡ Fun fact **I love LOTR💍 and Pets 😸**
+⚡ Fun fact **I love LOTR 🧙 and Pets 😸**
 
 
   <a href="https://www.linkedin.com/in/linconl-rufino-a790bb189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
