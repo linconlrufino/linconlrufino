@@ -9,9 +9,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linconlrufino&show_icons=true&theme=ocean_dark)](https://github.com/linconlrufino/github-readme-stats)
 
 
-<a href="https://github.com/linconlrufino/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linconlrufino&repo=github-readme-stats" />
+<a href="https://github.com/linconlrufino/linconlrufino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linconlrufino&repo=linconlrufino" />
 </a>
-<a href="https://github.com/linconlrufino/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linconlrufino&repo=convoychat" />
+<a href="https://github.com/linconlrufino/linconlrufino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linconlrufino&repo=linconlrufino" />
 </a>
