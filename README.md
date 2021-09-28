@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Linconl</h1>
 <h3 align="center">I'm a software developer at NexoCS.</h3>
 
-🌱 I’m currently learning **NodeJS , TypeScript .**
+🌱 I’m currently learning **NodeJS and TypeScript .**
 
 ⚡ Fun fact **I love LOTR**
 
