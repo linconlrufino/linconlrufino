@@ -15,3 +15,12 @@
 <a href="https://github.com/linconlrufino/linconlrufino">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linconlrufino&repo=linconlrufino" />
 </a>
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linconlrufino&hide=html,css,hack,ejs&layout=compact&show_icons=true&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=linconlrufino&hide=contribs&show_icons=true&theme=dracula" /></td>
+    </tr>   
+  </table>
+</center>  
