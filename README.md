@@ -3,7 +3,7 @@
 
 💻 I’m currently working with **C# and .Net, APIs and concepts like REST, DDD , Sql-Server , Oracle , NHibernate , Entity .**
 
-🌱 I’m currently learning and focused at **NodeJS and TypeScript, APIs and concepts like REST, Architecture and all about backend development , TDD with Jest .**
+🌱 I’m currently learning and focused at ** ASP.NET 6 , Native development for Android with Kotlin  ,NodeJS and TypeScript, APIs and concepts like REST, Architecture and all about backend development , TDD with Jest .**
 
 ⚡ Fun fact **I love LOTR 🧙 and Pets 😸**
 
