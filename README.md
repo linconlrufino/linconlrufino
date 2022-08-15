@@ -4,7 +4,7 @@
 💻 I’m currently working with **C# and .Net, APIs and concepts like REST, DDD , Sql-Server , Oracle , NHibernate , Entity .**
 
 🌱 I’m currently learning and focused at 
-- **ASP.NET 6 , APIs and concepts like REST, Architecture and all about backend development.**
+- **.NET, APIs and concepts like REST, clean-architecture, DDD, CQRS and all about backend development.**
 - **Native development for Android with Kotlin**
 
 ⚡ Fun fact **I love LOTR 🧙 and Pets 😸**
