@@ -6,8 +6,6 @@
 🌱 I’m currently learning and focused at 
 - **.NET, APIs and concepts like REST, clean-architecture, DDD, CQRS and all about backend development.**
 - **.Angular / Typescript.**
-- **.Android / Kotlin.**
-
 
 ⚡ Fun fact **I love LOTR 🧙 and Pets 😸**
 
