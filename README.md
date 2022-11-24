@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Linconl</h1>
 
-💻 I’m currently working with **C# and .Net, APIs and concepts like REST, DDD , Sql-Server , Oracle , NHibernate , Entity .**
+💻 I’m currently working with **C# and .Net, APIs and concepts like REST, DDD, Sql-Server, Entity .**
 
 🌱 I’m currently learning and focused at 
 - **.NET, APIs and concepts like REST, clean-architecture, DDD, CQRS and all about backend development.**
