@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Linconl</h1>
-<h3 align="center">I'm a software developer at NexoCS.</h3>
 
 💻 I’m currently working with **C# and .Net, APIs and concepts like REST, DDD , Sql-Server , Oracle , NHibernate , Entity .**
 
