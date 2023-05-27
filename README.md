@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Linconl</h1>
-![](https://komarev.com/ghpvc/?username=linconlrufino)
 💻 I’m currently working with **C# and .Net, APIs and concepts like REST, DDD, Sql-Server, Entity .**
 
 🌱 I’m currently learning and focused at 
