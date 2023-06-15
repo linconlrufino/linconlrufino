@@ -14,7 +14,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linconlrufino&hide=html,css,hack,ejs&layout=compact&show_icons=true&theme=ocean_dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=linconlrufino&hide=contribs&show_icons=true&theme=ocean_dark" /></td>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=linconlrufino&hide=contribs&show_icons=true&theme=ocean_dark" /></td>
     </tr>   
   </table>
 </center>
