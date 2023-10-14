@@ -1,5 +1,3 @@
-<h1 align="center">Hi , I'm Linconl</h1>
-
 💻 I’m currently working with 
 - **.C#, DotNet, Sql-Server, Entity, Unit Tests with XUnit, APIs and concepts like REST, DDD, Clean Code, Clean Architecture.**
 - **.Angular, Typescript, Unit Tests with Karma and Jasmine.**
