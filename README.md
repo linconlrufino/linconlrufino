@@ -1,13 +1,11 @@
 💻 I’m currently working with 
-- **.C#, DotNet, Sql-Server, Entity, Unit Tests with XUnit, APIs and concepts like REST, DDD, Clean Code, Clean Architecture.**
+- **.C#, DotNet, Sql-Server, Entity, Unit Tests with XUnit, APIs and concepts like REST, DDD, Clean Code, Clean Architecture, Microservice architecture.**
 - **.Angular, Typescript, Unit Tests with Karma and Jasmine.**
   
-🌱 I’m currently learning and focused at
-- **.NET, APIs and concepts like REST, Clean Architecture, DDD, CQRS and all about Backend Development.**
-- **.Angular, Typescript, Unit Tests with Karma and Jasmine.**
-- **.Swift and Mobile Development.**
+🌱 I’m currently learning and focused at Mobile Development
+- **.Swift, UIKit.**
 
-⚡ Fun fact **I love LOTR 🧙 and Pets 😸**
+⚡ Fun fact **I love LOTR 🧙 and Cats 😸**
 
 <a href="https://www.linkedin.com/in/linconl-rufino-a790bb189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
