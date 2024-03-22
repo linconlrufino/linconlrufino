@@ -1,5 +1,5 @@
 💻 I’m currently working with 
-- **.C#, DotNet, Sql-Server, Entity, Unit Tests with XUnit, APIs and concepts like REST, DDD, Clean Code, Clean Architecture, Microservice architecture.**
+- **.CSharp, .Net, Sql-Server, Entity, Unit Tests with XUnit, APIs and concepts like REST, DDD, Clean Code, Clean Architecture, Microservice architecture.**
 - **.NodeJS, REST API, Documentation with Swagger, SOLID, DDD, Docker, TypeORM, JWT, CI/CD and Serverless.**
 - **.Angular, Typescript, Unit Tests with Karma and Jasmine.**
   
