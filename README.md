@@ -2,6 +2,11 @@
 - **.CSharp, .Net, Sql-Server, Entity, Unit Tests with XUnit, APIs and concepts like REST, DDD, Clean Code, Clean Architecture, Microservice architecture.**
 - **.NodeJS, REST API, Documentation with Swagger, SOLID, DDD, Docker, TypeORM, JWT, CI/CD and Serverless.**
 - **.Angular, Typescript, Unit Tests with Karma and Jasmine.**
+- **.Swift,UiKit, SwiftUI, MVVM.**
+
+
+🌱 I’m currently learning and focused at Mobile Development
+- **.Swift, UIKit.**
 
 ⚡ Fun fact **I love LOTR 🧙 and Cats 😸**
 
