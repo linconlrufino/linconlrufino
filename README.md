@@ -5,11 +5,6 @@
 - **.Swift,UiKit, SwiftUI, MVVM.**
 
 
-🌱 I’m currently learning and focused at Mobile Development
-- **.Swift, UIKit.**
-
-⚡ Fun fact **I love LOTR 🧙 and Cats 😸**
-
 <a href="https://www.linkedin.com/in/linconl-rufino-a790bb189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div align="center">
