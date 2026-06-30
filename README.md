@@ -38,4 +38,3 @@ Currently working with the .NET ecosystem while expanding my knowledge in Cloud 
 ## 📫 Connect with me
 
 - LinkedIn: https://linkedin.com/in/linconl-rufino
-- GitHub: https://github.com/linconlrufino
