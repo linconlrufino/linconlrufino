@@ -7,7 +7,6 @@ Currently working with the .NET ecosystem while expanding my knowledge in Cloud 
 ## 🚀 About Me
 
 - 💼 Senior Software Engineer
-- ❤️ Passionate about Back-end Development
 - ⚙️ .NET | C# | ASP.NET Core | SQL Server
 - 🌐 Angular | TypeScript
 - 📍 Rio de Janeiro, Brazil
