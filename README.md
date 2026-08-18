@@ -1,7 +1,8 @@
-Senior Full Stack Developer with a strong Back-end focus, passionate about building scalable software, solving complex problems, and continuously learning.
+**Senior Software Engineer**
 
-Currently working with the .NET ecosystem while expanding my knowledge in Cloud Architecture, Distributed Systems.
+6+ years building backend systems with C#/.NET and Go.
 
+AWS · Docker · SQL · REST · Distributed Systems · Microservices · Messaging · CI/CD
 ---
 
 ## 🚀 About Me
